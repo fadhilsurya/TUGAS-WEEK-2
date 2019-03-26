@@ -1,0 +1,51 @@
+
+TUGAS PERTAMA NEWTON SECOND LAW
+
+SET masa benda equals to 600
+SET percepatan benda equals to 2
+DISPLAY  masa benda equals to percepatan benda equals to resultan gaya
+
+---------------------
+
+TUGAS KEDUA TAHUN KABISAT
+
+SET tahun do not have reminder devide by 4 and have reminder devide by 100
+SET tahun do not have reminder devide by 4 100 or 400
+
+IF tahun do not have reminder devide by 4 and have reminder devide by 100
+ELSE tahun do not reminder devide by 4 100 or 400
+
+DISPLAY tahun KABISAT
+
+
+---------------------
+
+TUGAS KETIGA LAUNDRY FOXIE
+
+---------------------
+
+STORE "masukan pakaian kedalam mesin cuci" with 0
+
+WHILE "masukan pakaian kedalam mesin cuci" less than 20
+    add "measukan pakaian kedalam mesin cuci" by 1
+    IF "masukan pakaian kedalam mesin cuci" equals to 20
+    DISPLAY "mesin cuci dinyalakan"
+
+----------------------
+
+TUGAS ke EMPAT PERIKSA KUKU
+
+----------------------
+
+STORE "Guru memeriksa kuku muri" with 0
+
+WHILE "guru memeriksa kuku" less than 40
+    add "guru memeriksa kuku" by 1
+    DISPLAY "Murid"
+    Calculate "guru memeriksa kuku" mod by 2
+    STORE "reminder" to the result of calculation
+    IF "reminder" equals to 0
+    DISPLAY "anak baik"
+        ELSE
+    DISPLAY "anak setan"
+    

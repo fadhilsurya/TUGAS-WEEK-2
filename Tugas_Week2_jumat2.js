@@ -7,4 +7,4 @@ function kata(holla) {
     console.log(hollaHup)
     return;
 }
-iqbal('hallo')
+kata('hallo')
